@@ -14,7 +14,7 @@ Pada judul saya berikan heading 1 dan untuk sub judul heading 2 sesuai modul pra
 
 3. Memformat Teks
 ![Memformat Teks](https://user-images.githubusercontent.com/59679660/112928293-8b8adc80-9140-11eb-8264-9745b23aa14c.png)
-Beberapa kata saya format dengan memberikan <b>Italic pada kata "HTML Dasar", <b>Mark</b> pada kata "Pemrograman WEB", dan <b>Bold</b> pada kata "Prodi Teknik Informatika Universitas Pelita Bangsa".<br>
+Beberapa kata saya format dengan memberikan <b>Italic</b> pada kata "HTML Dasar", <b>Mark</b> pada kata "Pemrograman WEB", dan <b>Bold</b> pada kata "Prodi Teknik Informatika Universitas Pelita Bangsa".<br>
 
 4. Menyisipkan Gambar
 ![Penyisipan Gambar](https://user-images.githubusercontent.com/59679660/112928788-706c9c80-9141-11eb-8d3e-5052611c72d2.png)
