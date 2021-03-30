@@ -1,8 +1,7 @@
 # Lab1Web
-Praktikum 1 Mata Kuliah Pemrograman Web, Universitas Pelita Bangsa<hr>
 Nama  : Ridho Yusuf Fitra<br>
 NIM   : 311910652<br>
-Kelas : TI.19.A3<br>
+Kelas : TI.19.A3<br><hr>
 
 1. Membuat Paragraf
 ![Penambahan Paragraf](https://user-images.githubusercontent.com/59679660/112926944-609f8900-913e-11eb-9b22-ad349d7430dc.png)
